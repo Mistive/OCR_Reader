@@ -12,6 +12,8 @@ def getRectangle(cnt):
     return rect
 
 
+
+
 if __name__ == "__main__":
     img_color = cv2.imread('img2.jpg', cv2.IMREAD_COLOR)
     img_Canny = cv2.Canny(img_color, 150, 250)
