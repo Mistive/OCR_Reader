@@ -38,7 +38,7 @@ Feature Matching 알고리즘인 SIFT 알고리즘이 저작권 문제(?)로 무
 **matchTemplate() 함수를 이용한 matching 기법 -> 빛의 변화에 너무 약하다**
 
 **Feature Matching 기법 -> 문자 특성상 특징이 너무 적어서 그런지 잘 매칭이 되는 것 같지 않다.**
-
+[FlANN Based Matcher](https://github.com/Mistive/OCR_Reader/blob/master/img/FLANN%20Based%20Matcher.png)
 
 
 ## 참고문헌
