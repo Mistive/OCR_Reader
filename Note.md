@@ -18,7 +18,8 @@
 
 단순히 Canny Edge 하면 엠보싱 처리된 이미지라 윤곽이 잘 잡힐 것 같지가 않다. Contrast Strech 기법 등을 이용해 영상 대비를 좀 더 늘려봐야겠다
 
-### 2019.05.15
+
+## 2019.05.15
 
 아르바이트를 쉽게 하기 위해 시작한 이 삽질... 단순히 Canny Edge를 해서 문제를 해결하기에는 한계가 너무 명확했다. 그래서 우리 갓갓 형님들이 짜놓으신 좋은 Matching 관련 알고리즘을 공부하고 예제를 실행해보려하는데...
 
@@ -40,8 +41,11 @@ Feature Matching 알고리즘인 SIFT 알고리즘이 저작권 문제(?)로 무
 
 
 
-### 참고문헌
-[opencv 이미지 처리 관련 쩌는 블로그](https://m.blog.naver.com/samsjang/220657746860).
+## 참고문헌
+
+[opencv 이미지 처리 관련 쩌는 블로그](https://m.blog.naver.com/samsjang/220657746860)
+
+[opencv 공식 ](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_matcher/py_matcher.html)
 
 
 
